@@ -1,0 +1,2 @@
+# bazenga
+.ormal
